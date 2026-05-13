@@ -39,10 +39,10 @@ This shows deployment artifacts stored in S3.
 [View app.js](app.js)
 
 ### Build Specification
-[View buildspec.yml](buildspec)
+[View buildspec.yml](buildspec.yml)
 
 ### Frontend File
-[View index.html](index)
+[View index.html](index.html)
 
 ### Package Configuration
-[View package.json](package)
+[View package.json](package.json)
